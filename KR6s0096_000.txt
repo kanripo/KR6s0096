@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 大唐貞元續開元釋教錄
+#+DATE: 2015-08-31 00:18:13.431333
+#+PROPERTY: JUAN 0
