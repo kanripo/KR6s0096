@@ -1,19 +1,17 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-31 00:18:13.214110
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 14:40
 #+TITLE: 大唐貞元續開元釋教錄
 #+PROPERTY: CBETA_ID T55n2156
 #+PROPERTY: ID KR6s0096
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 55, No. 2156
 #+PROPERTY: VOL 55
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6s0096_T_000-0748b>¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6s0096_T_003-0766b> 
 #+PROPERTY: JUAN 3
 ¶
-
-入藏錄
- 大唐貞元續開元釋教錄卷下(入藏錄)¶
+大唐貞元續開元釋教錄卷下(入藏錄)¶
 ¶
 甲戌歲西明寺翻經¶
 臨壇沙門圓照集上¶
@@ -25,11 +23,7 @@
   * 六十四卷經律疏義¶
   * 八十八卷貞元新集古今制詔碑表記錄¶
 
-一百九十三卷經論及念誦法
-:PROPERTIES:
-:head: 一百九十三卷經論及念誦法
-:END:
-¶
+** 一百九十三卷經論及念誦法¶
 
   
   * 
@@ -200,11 +194,7 @@
 右一部十卷同第十九帙。¶
 共一百二十二部。二百一卷。計二十帙。¶
 
-六十四卷經律疏義
-:PROPERTIES:
-:head: 六十四卷經律疏義
-:END:
-¶
+** 六十四卷經律疏義¶
 
 代宗朝新再譯。¶
 
@@ -233,11 +223,7 @@
 右翻經大德光宅寺沙門道岸。章敬寺大¶德沙門智通等奉勅撰。¶
 右經疏一部均成二十卷。并例訣義目共¶二十二卷。分為第五第六帙。¶
 
-八十八卷貞元新集古今制令碑表記錄
-:PROPERTIES:
-:head: 八十八卷貞元新集古今制令碑表記錄
-:END:
-
+** 八十八卷貞元新集古今制令碑表記錄
   
   * 高宗¶置京師西明寺制令集二卷(寺碑附出)¶
 右沙門圓照謹依元勅令本集出。¶
